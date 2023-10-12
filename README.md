@@ -9,5 +9,5 @@
 - Research assistant at MIT in operations research and analytics
 
 ## Social Networks
-- You can find me on [Twitter](https://twitter.com//CeliaEscribe)
+- You can find me on [Twitter](https://twitter.com/CeliaEscribe)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/celiaescribe)
