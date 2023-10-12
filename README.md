@@ -1,16 +1,13 @@
-### Hi there 👋
+# README
 
-<!--
-**celiaescribe/celiaescribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Topics of Interest
+- Energy economics
+- Environmental economics
+- Bottom-up optimization and microsimulation models
 
-Here are some ideas to get you started:
+## Previous Work
+- Research assistant at MIT in operations research and analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social Networks
+- You can find me on [Twitter](https://twitter.com//CeliaEscribe)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/celiaescribe)
